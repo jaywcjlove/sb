@@ -12,7 +12,7 @@
                 <mask id="mask-2" sketch:name="Mask" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
-                <use id="Mask" fill="#EDEDED" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <use id="Mask" stroke="#DCDCDC" fill="#FFFFFF" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
                 <rect id="颜色" fill="#DCDCDC" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="0" y="0" width="22" height="20"></rect>
                 <text id="Cancel" fill="#000000" sketch:type="MSTextLayer" mask="url(#mask-2)" font-family="PingFang SC" font-size="12" font-weight="526" sketch:alignment="middle">
                     <tspan x="26.6278507" y="14">Follow</tspan>
