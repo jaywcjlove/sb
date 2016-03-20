@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="71px" height="20px" viewBox="0 0 71 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
-    <title>github-alt</title>
+    <title>green-alt</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="0" y="0" width="71" height="20" rx="3"></rect>
+        <rect id="path-3" x="0" y="0" width="23" height="20"></rect>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="icon" sketch:type="MSLayerGroup" transform="translate(-1.000000, -62.000000)">
-            <g id="github-alt" transform="translate(1.000000, 62.000000)">
+        <g id="github" sketch:type="MSLayerGroup">
+            <g id="green-alt">
                 <mask id="mask-2" sketch:name="Mask" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
-                <use id="Mask" fill="#767676" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
-                <rect id="颜色" fill="#000000" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="0" y="0" width="23" height="20"></rect>
+                <use id="Mask" fill="#63B362" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <g id="颜色">
+                    <use fill="#444444" fill-rule="evenodd" sketch:type="MSShapeGroup" mask="url(#mask-2)" xlink:href="#path-3"></use>
+                    <use fill="none" xlink:href="#path-3"></use>
+                    <use fill="none" xlink:href="#path-3"></use>
+                </g>
                 <text id="Cancel" fill="#FFFFFF" sketch:type="MSTextLayer" mask="url(#mask-2)" font-family="PingFang SC" font-size="12" font-weight="526" sketch:alignment="middle">
                     <tspan x="27.1058507" y="14">Github</tspan>
                 </text>
