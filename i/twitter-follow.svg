@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="65px" height="20px" viewBox="0 0 65 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>twitter-follow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="65" height="20" rx="3"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="icon" sketch:type="MSLayerGroup" transform="translate(-243.000000, -90.000000)">
+            <g id="twitter-follow" transform="translate(243.000000, 90.000000)">
+                <mask id="mask-2" sketch:name="Mask" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#1DA1F2" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <text id="Cancel" fill="#FFFFFF" sketch:type="MSTextLayer" mask="url(#mask-2)" font-family="PingFang SC" font-size="12" font-weight="526" sketch:alignment="middle">
+                    <tspan x="22.6278507" y="14">Follow</tspan>
+                </text>
+                <path d="M19,5.41894709 C18.4578007,5.66120635 17.8722255,5.82271252 17.2608092,5.89469813 C17.8865303,5.51954236 18.3655115,4.92566109 18.5930044,4.21918695 C18.0074292,4.56527161 17.3586358,4.81906702 16.6692352,4.95473221 C16.1154998,4.36638829 15.3282725,4 14.4570621,4 C12.7843196,4 11.4285906,5.35572896 11.4285906,7.02847147 C11.4285906,7.26473192 11.4544316,7.49545503 11.506575,7.7178721 C8.98892451,7.59097439 6.75644775,6.38521545 5.26274638,4.55142822 C5.00295216,4.99856959 4.85344359,5.52046526 4.85344359,6.07420071 C4.85344359,7.12399083 5.38687541,8.0524206 6.20040507,8.59508134 C5.7043504,8.58077651 5.23736684,8.44234265 4.8276026,8.2171569 L4.8276026,8.25453404 C4.8276026,9.72239443 5.87185537,10.948457 7.25896267,11.2248633 C7.00516726,11.2940802 6.73706701,11.3314574 6.46019929,11.3314574 C6.26408465,11.3314574 6.07673749,11.3111537 5.88939033,11.2765453 C6.27608225,12.4790741 7.39508931,13.3558219 8.71851703,13.3821243 C7.68026306,14.1951925 6.37667752,14.6801725 4.95496176,14.6801725 C4.70993382,14.6801725 4.47044324,14.6658677 4.23095266,14.6367965 C5.57514546,15.4992395 7.16667343,15.9980629 8.87725453,15.9980629 C14.4492175,15.9980629 17.4975311,11.3808321 17.4975311,7.37778625 C17.4975311,7.24535118 17.4947625,7.11522335 17.4887637,6.98555697 C18.0798763,6.5614879 18.5934659,6.02805609 19,5.41940854 L19,5.41894709 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

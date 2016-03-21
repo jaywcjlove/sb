@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="148px" height="20px" viewBox="0 0 148 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>npm</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="148" height="20" rx="3"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.347417092   0 0 0 0 0.347417092   0 0 0 0 0.347417092  0 0 0 0.348713235 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="GET" sketch:type="MSLayerGroup" transform="translate(0.000000, -32.000000)">
+            <g id="npm" transform="translate(0.000000, 32.000000)">
+                <mask id="mask-2" sketch:name="Mask" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#CB3837" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <rect id="颜色" fill="#FFBA48" filter="url(#filter-3)" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="0" y="0" width="43" height="20"></rect>
+                <text id="Cancel" fill="#FFFFFF" filter="url(#filter-4)" sketch:type="MSTextLayer" mask="url(#mask-2)" font-family="Avenir Next" font-size="12" font-weight="420">
+                    <tspan x="48" y="13">get this with npm</tspan>
+                </text>
+                <g mask="url(#mask-2)" id="Group">
+                    <g transform="translate(5.000000, 4.000000)">
+                        <g>
+                            <path d="M0,0 L0,11.114749 L9.45173746,11.114749 L9.45173746,12.9779151 L17,12.9779151 L17,11.114749 L34,11.114749 L34,0 L0,0 L0,0 L0,0 Z" id="Shape" fill="#CB3837" sketch:type="MSShapeGroup"></path>
+                            <path d="M5.64478764,1.86316602 L1.9034749,1.86316602 L1.9034749,3.72633205 L1.9034749,9.25158302 L5.64478764,9.25158302 L5.64478764,3.72633205 L7.54826254,3.72633205 L7.54826254,9.25158302 L9.45173746,9.25158302 L9.45173746,3.72633205 L9.45173746,1.86316602 L5.64478764,1.86316602 L5.64478764,1.86316602 L5.64478764,1.86316602 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                            <path d="M11.3552124,1.86316602 L11.3552124,8.86610039 L11.3552124,9.25158302 L11.3552124,11.114749 L15.1621621,11.114749 L15.1621621,9.25158302 L18.9034749,9.25158302 L18.9034749,1.86316602 L11.3552124,1.86316602 L11.3552124,1.86316602 L11.3552124,1.86316602 Z M17,7.38841698 L15.1621621,7.38841698 L15.1621621,3.72633205 L17,3.72633205 L17,7.38841698 L17,7.38841698 L17,7.38841698 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                            <path d="M24.5482626,1.86316602 L20.8069499,1.86316602 L20.8069499,3.72633205 L20.8069499,9.25158302 L24.5482626,9.25158302 L24.5482626,3.72633205 L26.4517374,3.72633205 L26.4517374,9.25158302 L28.3552123,9.25158302 L28.3552123,3.72633205 L30.2586873,3.72633205 L30.2586873,9.25158302 L32.1621621,9.25158302 L32.1621621,3.72633205 L32.1621621,1.99166023 L32.1621621,1.86316602 L24.5482626,1.86316602 L24.5482626,1.86316602 L24.5482626,1.86316602 Z" id="Shape" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
