@@ -5,6 +5,10 @@
         "build/invalid.svg",
         "build/passing.svg"
     ],
+    "download": [
+        "download/appstore.svg",
+        "download/googleplay.svg"
+    ],
     "github": [
         "github/alt-follow.svg",
         "github/alt-fork.svg",
@@ -32,6 +36,7 @@
         "github/w.svg"
     ],
     "ico": [
+        "ico/58.svg",
         "ico/alipay-1.svg",
         "ico/alipay.svg",
         "ico/awesome.svg",
@@ -56,11 +61,14 @@
         "ico/segmentfault.svg",
         "ico/stackoverflow.svg",
         "ico/stylus.svg",
+        "ico/tudou.svg",
         "ico/twitter-follow.svg",
         "ico/twitter-tweet.svg",
         "ico/twitter.svg",
         "ico/wechat.svg",
         "ico/weibo.svg",
+        "ico/xunlei.svg",
+        "ico/youku.svg",
         "ico/zhihu.svg"
     ],
     "license": [
