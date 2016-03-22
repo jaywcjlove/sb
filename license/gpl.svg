@@ -46,11 +46,11 @@
                 </mask>
                 <use id="Mask" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
                 <rect id="颜色" fill="#0576B6" filter="url(#filter-4)" sketch:type="MSShapeGroup" mask="url(#mask-3)" x="53" y="0" width="55" height="20"></rect>
-                <text id="Cancel" fill="#FFFFFF" filter="url(#filter-5)" sketch:type="MSTextLayer" mask="url(#mask-3)" font-family="Avenir Next" font-size="14" font-weight="526" sketch:alignment="middle">
-                    <tspan x="4.614" y="15">license</tspan>
+                <text id="Cancel" fill="#FFFFFF" filter="url(#filter-5)" sketch:type="MSTextLayer" mask="url(#mask-3)" font-family="Avenir Next" font-size="14" font-weight="420">
+                    <tspan x="4.5" y="15">license</tspan>
                 </text>
-                <text id="Cancel" fill="#FFFFFF" filter="url(#filter-6)" sketch:type="MSTextLayer" mask="url(#mask-3)" font-family="Avenir Next" font-size="14" font-weight="526" sketch:alignment="middle">
-                    <tspan x="57.242" y="15">GPL</tspan>
+                <text id="Cancel" fill="#FFFFFF" filter="url(#filter-6)" sketch:type="MSTextLayer" mask="url(#mask-3)" font-family="Avenir Next" font-size="12" font-weight="420">
+                    <tspan x="58" y="14">GPL</tspan>
                 </text>
             </g>
         </g>
