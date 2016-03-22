@@ -2,3 +2,6 @@
 
 
 
+```bash
+node build.js
+```
