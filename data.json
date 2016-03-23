@@ -7,7 +7,15 @@
     ],
     "download": [
         "download/appstore.svg",
-        "download/googleplay.svg"
+        "download/googleplay.svg",
+        "download/made-for-iphone.svg",
+        "download/made_for_iPod.svg",
+        "download/white-appstore.svg",
+        "download/white-googleplay.svg",
+        "download/white-made-for-iphone.svg",
+        "download/white-made_for_iPod.svg",
+        "download/white-window.svg",
+        "download/window.svg"
     ],
     "github": [
         "github/alt-follow.svg",
