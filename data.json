@@ -6,10 +6,12 @@
         "build/passing.svg"
     ],
     "download": [
+        "download/amazon.svg",
         "download/appstore.svg",
         "download/googleplay.svg",
         "download/made-for-iphone.svg",
         "download/made_for_iPod.svg",
+        "download/white-amazon.svg",
         "download/white-appstore.svg",
         "download/white-googleplay.svg",
         "download/white-made-for-iphone.svg",
@@ -55,7 +57,9 @@
         "ico/gitter.svg",
         "ico/google+.svg",
         "ico/group.svg",
+        "ico/grunt-build-with.svg",
         "ico/grunt.svg",
+        "ico/gulp-build-with.svg",
         "ico/gulp.svg",
         "ico/hexo.svg",
         "ico/linkedin.svg",
@@ -196,5 +200,11 @@
         "progressed/97.svg",
         "progressed/98.svg",
         "progressed/99.svg"
+    ],
+    "status": [
+        "status/no-dependencies.svg",
+        "status/pod-invalid.svg",
+        "status/stable.svg",
+        "status/wheel-no.svg"
     ]
 }
