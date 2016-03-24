@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="88px" height="20px" viewBox="0 0 88 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="82px" height="20px" viewBox="0 0 82 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
     <title>gpl</title>
     <desc>Created with Sketch.</desc>
@@ -8,7 +8,7 @@
             <stop stop-color="#5E5E5E" offset="0%"></stop>
             <stop stop-color="#4D4D4D" offset="100%"></stop>
         </linearGradient>
-        <rect id="path-2" x="0" y="0" width="88" height="20" rx="3"></rect>
+        <rect id="path-2" x="0" y="0" width="82" height="20" rx="3"></rect>
         <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
             <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
             <feGaussianBlur stdDeviation="0" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
@@ -45,12 +45,12 @@
                     <use xlink:href="#path-2"></use>
                 </mask>
                 <use id="Mask" fill="url(#linearGradient-1)" sketch:type="MSShapeGroup" xlink:href="#path-2"></use>
-                <rect id="颜色" fill="#0576B6" filter="url(#filter-4)" sketch:type="MSShapeGroup" mask="url(#mask-3)" x="53" y="0" width="55" height="20"></rect>
-                <text id="Cancel" fill="#FFFFFF" filter="url(#filter-5)" sketch:type="MSTextLayer" mask="url(#mask-3)" font-family="Avenir Next" font-size="14" font-weight="420">
-                    <tspan x="4.5" y="15">license</tspan>
+                <rect id="颜色" fill="#0576B6" filter="url(#filter-4)" sketch:type="MSShapeGroup" mask="url(#mask-3)" x="48" y="0" width="55" height="20"></rect>
+                <text id="Cancel" fill="#FFFFFF" filter="url(#filter-5)" sketch:type="MSTextLayer" mask="url(#mask-3)" font-family="Avenir Next" font-size="12" font-weight="420">
+                    <tspan x="5" y="14">license</tspan>
                 </text>
                 <text id="Cancel" fill="#FFFFFF" filter="url(#filter-6)" sketch:type="MSTextLayer" mask="url(#mask-3)" font-family="Avenir Next" font-size="12" font-weight="420">
-                    <tspan x="58" y="14">GPL</tspan>
+                    <tspan x="54" y="14">GPL</tspan>
                 </text>
             </g>
         </g>
