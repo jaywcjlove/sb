@@ -208,6 +208,14 @@
         "progressed/98.svg",
         "progressed/99.svg"
     ],
+    "star": [
+        "star/red0.svg",
+        "star/red1.svg",
+        "star/red2.svg",
+        "star/red3.svg",
+        "star/red4.svg",
+        "star/red5.svg"
+    ],
     "status": [
         "status/no-dependencies.svg",
         "status/pod-invalid.svg",
