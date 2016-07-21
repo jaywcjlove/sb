@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="12px" height="12px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="12px" height="12px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
     <title>min-bibei</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="min-bibei" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
-            <circle id="Oval-14" stroke="#4990E2" stroke-width="2" sketch:type="MSShapeGroup" cx="11.5" cy="11.5" r="10.8191231"></circle>
+        <g id="min-bibei" sketch:type="MSLayerGroup">
+            <circle id="Oval-14" stroke="#4990E2" sketch:type="MSShapeGroup" cx="11.5" cy="11.5" r="10.8191231"></circle>
             <path d="M10.288,3.992 L9.50400001,4.728 C10.848,5.816 11.904,6.84 12.672,7.784 L13.472,6.984 C12.608,5.992 11.552,4.984 10.288,3.992 L10.288,3.992 Z M15.456,4.456 C14.304,8.648 12.544,11.944 10.176,14.36 L10.176,7.272 L9.02400001,7.272 L9.02400001,15.416 C8.00000001,16.28 6.84800001,17 5.60000001,17.576 L6.27200001,18.536 C7.24800001,18.088 8.17600001,17.544 9.07200001,16.888 C9.20000001,17.624 9.72800001,18.008 10.624,18.008 L13.968,18.008 C14.704,18.008 15.232,17.8 15.568,17.416 C15.952,16.936 16.208,15.64 16.336,13.512 L15.248,13.144 C15.152,14.968 14.992,16.072 14.736,16.44 C14.544,16.744 14.224,16.904 13.76,16.904 L10.992,16.904 C10.448,16.904 10.176,16.664 10.176,16.184 L10.176,15.976 C12.96,13.48 15.072,9.8 16.512,4.92 L15.456,4.456 Z M6.68800001,8.76 C6.28800001,11.016 5.64800001,13.08 4.78400001,14.952 L5.77600001,15.56 C6.64000001,13.72 7.31200001,11.528 7.79200001,8.984 L6.68800001,8.76 Z M16.944,8.984 L15.856,9.336 C16.816,11.128 17.712,13.192 18.512,15.528 L19.552,15.064 C18.816,12.904 17.936,10.872 16.944,8.984 L16.944,8.984 Z" id="必" fill="#4990E2" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
