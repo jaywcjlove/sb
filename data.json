@@ -93,6 +93,10 @@
         "ico/youku.svg",
         "ico/zhihu.svg"
     ],
+    "lang": [
+        "lang/chinese.svg",
+        "lang/english.svg"
+    ],
     "license": [
         "license/apache.svg",
         "license/bsd.svg",
@@ -212,6 +216,9 @@
         "progressed/99.svg"
     ],
     "star": [
+        "star/black.svg",
+        "star/gray.svg",
+        "star/red.svg",
         "star/red0.svg",
         "star/red1.svg",
         "star/red2.svg",
