@@ -5,7 +5,7 @@
     <desc>Created with Sketch.</desc>
     <defs>
         <rect id="path-1" x="0" y="0" width="60" height="20" rx="3"></rect>
-        <text id="text-3" font-family="PingFangSC-Medium, PingFang SC" font-size="12" font-weight="400" fill="#FFFFFF">
+        <text id="text-3" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal" fill="#FFFFFF">
             <tspan x="29" y="14">中文</tspan>
         </text>
         <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
@@ -20,7 +20,7 @@
                 <mask id="mask-2" fill="white">
                     <use xlink:href="#path-1"></use>
                 </mask>
-                <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+                <use id="Mask" fill="#4A4A4A" xlink:href="#path-1"></use>
                 <g id="中文" mask="url(#mask-2)" fill-opacity="1" fill="#FFFFFF">
                     <use filter="url(#filter-4)" xlink:href="#text-3"></use>
                     <use xlink:href="#text-3"></use>
