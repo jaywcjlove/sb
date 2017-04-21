@@ -12,7 +12,7 @@
 
 `http://jaywcjlove.github.io/sb/p/1.svg` 图片名称`[0~100]`
 
-|      |      |      |      |      |      |
+| 图标 | 图标 | 图标 | 图标 | 图标 | 图标 |
 | ---- | ---- | ---- | ---- | ---- | ---- |
 | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/94.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/99.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/65.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/36.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/88.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/78.svg) |
 | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/12.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/66.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/0.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/21.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/57.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/55.svg) |
@@ -25,7 +25,7 @@
 
 ## Plugin
 
-| jquery.svg | jslite.svg | zepto.svg | angularjs.svg|
+| jquery.svg | jslite.svg | zepto.svg | angularjs.svg | vue.svg |
 | ---- | ---- | ---- | ---- |---- |
 | ![](http://jaywcjlove.github.io/sb/plugin/jquery.svg) | ![](http://jaywcjlove.github.io/sb/plugin/jslite.svg) | ![](http://jaywcjlove.github.io/sb/plugin/zepto.svg) | ![](http://jaywcjlove.github.io/sb/plugin/angularjs.svg) | ![](http://jaywcjlove.github.io/sb/plugin/vue.svg) |
 
