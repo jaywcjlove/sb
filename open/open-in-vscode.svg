@@ -7,7 +7,7 @@
       <use xlink:href="#open-in-vscode-a"/>
     </mask>
     <use fill="#1966D2" xlink:href="#open-in-vscode-a"/>
-    <text fill="#FFF" font-family="Helvetica" font-size="14" mask="url(#open-in-vscode-b)">
+    <text fill="#FFF" font-family="Helvetica" font-size="14" mask="url(#open-in-vscode-b)" opacity=".75">
       <tspan x="73.5" y="21.4">in VSCode</tspan>
     </text>
     <text fill="#FFF" font-family="Helvetica" font-size="14" mask="url(#open-in-vscode-b)">
