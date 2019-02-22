@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="148" height="32" viewBox="0 0 148 32">
+  <defs>
+    <rect id="open-in-vscode-a" width="148" height="32" rx="4"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd" opacity=".9">
+    <mask id="open-in-vscode-b" fill="#fff">
+      <use xlink:href="#open-in-vscode-a"/>
+    </mask>
+    <use fill="#1966D2" xlink:href="#open-in-vscode-a"/>
+    <text fill="#FFF" font-family="Helvetica" font-size="14" mask="url(#open-in-vscode-b)">
+      <tspan x="73.5" y="21.4">in VSCode</tspan>
+    </text>
+    <text fill="#FFF" font-family="Helvetica" font-size="14" mask="url(#open-in-vscode-b)">
+      <tspan x="35" y="21.4">Open</tspan>
+    </text>
+    <path fill="#FFF" fill-rule="nonzero" d="M29,8.97916667 L29,24.0208333 L24.25,26 L10,21.6458333 L10,21.2017083 L24.25,22.4248333 L24.25,7 L29,8.97916667 Z M11,16.9443572 L13.6596428,14.5 L11,12.0556429 L12.1141429,11.4058571 L14.8130714,13.4392857 L19.6428571,9 L22,10.144 L22,18.856 L19.6428571,20 L14.8130714,15.5607143 L12.1149286,17.5949286 L11,16.9443572 Z M17,15 L20,18 L20,12 L17,15 Z" mask="url(#open-in-vscode-b)"/>
+  </g>
+</svg>
