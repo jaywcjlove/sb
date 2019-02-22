@@ -49,15 +49,6 @@
         "github/w-star.svg",
         "github/w.svg"
     ],
-    "min-ico": [
-        "ico/min-app-store.svg",
-        "ico/min-awesome.svg",
-        "ico/min-bibei.svg",
-        "ico/min-free.svg",
-        "ico/min-hot.svg",
-        "ico/min-oss.svg",
-        "ico/min-tuijian.svg"
-    ],
     "ico": [
         "ico/58.svg",
         "ico/alipay-1.svg",
@@ -80,6 +71,13 @@
         "ico/hexo.svg",
         "ico/linkedin.svg",
         "ico/linux.svg",
+        "ico/min-app-store.svg",
+        "ico/min-awesome.svg",
+        "ico/min-bibei.svg",
+        "ico/min-free.svg",
+        "ico/min-hot.svg",
+        "ico/min-oss.svg",
+        "ico/min-tuijian.svg",
         "ico/mysql.svg",
         "ico/nodejs.svg",
         "ico/npm.svg",
@@ -108,10 +106,6 @@
         "lang/chinese.svg",
         "lang/english.svg"
     ],
-    "open": [
-        "open/open-in-gitpod.svg",
-        "open/open-in-vscode.svg"
-    ],
     "license": [
         "license/apache.svg",
         "license/bsd.svg",
@@ -119,6 +113,10 @@
         "license/lgpl.svg",
         "license/mit.svg",
         "license/mozilla.svg"
+    ],
+    "open": [
+        "open/open-in-gitpod.svg",
+        "open/open-in-vscode.svg"
     ],
     "plugin": [
         "plugin/angularjs.svg",
