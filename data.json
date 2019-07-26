@@ -1,7 +1,4 @@
 {
-    ".github": [
-        ".github/FUNDING.yml"
-    ],
     "build": [
         "build/failing.svg",
         "build/inaccessible.svg",
