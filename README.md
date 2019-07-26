@@ -8,7 +8,7 @@
 
 [View All](http://jaywcjlove.github.io/sb/)
 
-## progressed
+## Progressed
 
 `http://jaywcjlove.github.io/sb/p/1.svg` 图片名称`[0~100]`
 
@@ -43,6 +43,7 @@
 | bower.svg | ![](http://jaywcjlove.github.io/sb/ico/bower.svg) | grunt.svg | ![](http://jaywcjlove.github.io/sb/ico/grunt.svg) | gulp.svg | ![](http://jaywcjlove.github.io/sb/ico/gulp.svg) |
 | express.svg | ![](http://jaywcjlove.github.io/sb/ico/express.svg) | hexo.svg | ![](http://jaywcjlove.github.io/sb/ico/hexo.svg) | npm.svg | ![](http://jaywcjlove.github.io/sb/ico/npm.svg) |
 | redis.svg | ![](http://jaywcjlove.github.io/sb/ico/redis.svg) | twitter-follow.svg | ![](http://jaywcjlove.github.io/sb/ico/twitter-follow.svg) | twitter-tweet.svg | ![](http://jaywcjlove.github.io/sb/ico/twitter-tweet.svg) |
+| xitu.svg | ![](http://jaywcjlove.github.io/sb/ico/xitu.svg) | gitee.svg | ![](http://jaywcjlove.github.io/sb/ico/gitee.svg) | redhat.svg | ![](http://jaywcjlove.github.io/sb/ico/redhat.svg) |
 
 ## Github
 
@@ -64,8 +65,7 @@
 | ![](http://jaywcjlove.github.io/sb/github/w-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/w-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/w-star.svg) | ![](http://jaywcjlove.github.io/sb/github/w.svg) |
 
 
-## make
-
+## 生成图标网站
 
 ```bash
 node build.js
