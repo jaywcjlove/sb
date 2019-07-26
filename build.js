@@ -27,7 +27,7 @@ function initData(dirname){
     var filesArr = []
     files.forEach(function(_filename,idx){
         _filepath = path.join(dirname,_filename)
-        if( _filename !== '.git' && _filename !== 'svg' && _filename !== '.DS_Store'){
+        if (_filename !== '.git' && _filename !== '.github' && _filename !== 'svg' && _filename !== '.DS_Store'){
             if(isDir(_filepath)){
                 data[_filename] = initData(_filepath);
             }else if(isFile(_filepath)){
