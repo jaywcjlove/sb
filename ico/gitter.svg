@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="20" viewBox="0 0 72 20">
   <defs>
-    <rect id="gitter-a" width="72" height="20" rx="3"/>
-    <rect id="gitter-c" width="22" height="20"/>
+    <rect id="gitter-a" width="72" height="20" x="0" y="0" rx="3"/>
+    <rect id="gitter-c" width="22" height="20" x="0" y="0"/>
     <filter id="gitter-d" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
       <feOffset in="SourceAlpha" result="shadowOffsetInner1"/>
       <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>

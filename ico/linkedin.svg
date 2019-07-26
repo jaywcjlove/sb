@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="20" viewBox="0 0 80 20">
   <defs>
-    <rect id="linkedin-a" width="80" height="20" rx="3"/>
+    <rect id="linkedin-a" width="80" height="20" x="0" y="0" rx="3"/>
   </defs>
   <g fill="none" fill-rule="evenodd">
     <mask id="linkedin-b" fill="#fff">

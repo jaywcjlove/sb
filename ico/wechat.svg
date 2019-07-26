@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="20" viewBox="0 0 76 20">
   <defs>
-    <rect id="wechat-a" width="76" height="20" rx="3"/>
+    <rect id="wechat-a" width="76" height="20" x="0" y="0" rx="3"/>
   </defs>
   <g fill="none" fill-rule="evenodd">
     <mask id="wechat-b" fill="#fff">
