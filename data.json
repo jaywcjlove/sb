@@ -1,4 +1,7 @@
 {
+    ".github": [
+        ".github/FUNDING.yml"
+    ],
     "build": [
         "build/failing.svg",
         "build/inaccessible.svg",
@@ -61,6 +64,7 @@
         "ico/email.svg",
         "ico/express.svg",
         "ico/facebook.svg",
+        "ico/gitee.svg",
         "ico/gitter.svg",
         "ico/google+.svg",
         "ico/group.svg",
@@ -98,6 +102,7 @@
         "ico/ubuntu.svg",
         "ico/wechat.svg",
         "ico/weibo.svg",
+        "ico/xitu.svg",
         "ico/xunlei.svg",
         "ico/youku.svg",
         "ico/zhihu.svg"
