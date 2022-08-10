@@ -52,8 +52,8 @@ function initData(dirname) {
     if (data[keyName].length > 0) {
       svgTotal += data[keyName].length;
       data[keyName].forEach((item) => {
-        ulStr += `    <li><img src="${item}" /></li>\n`;
-        markdownStr += `![${item}](http://jaywcjlove.github.io/sb/${item}) `;
+        ulStr += `    <li><a href="${item}" target="__blank"><img src="${item}" /></a></li>\n`;
+        markdownStr += `[![${item}](http://jaywcjlove.github.io/sb/${item})](http://jaywcjlove.github.io/sb/${item}) `;
       });
     }
     ulStr += '  </ul>\n';
