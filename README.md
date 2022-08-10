@@ -1,72 +1,69 @@
-# svg status badges
+SVG Badges
+===
 
-域名可选 `http://jslite.io` 或者 `http://jaywcjlove.github.io` 后面跟上图片路径即可 `/sb/p/1.svg` ，所有`SVG`文件都放在 [gh-pages](https://github.com/jaywcjlove/sb/tree/gh-pages) 分支中。
+`http://jaywcjlove.github.io` 后面跟上图片路径即可 `/sb/p/1.svg` ，所有`SVG`文件都放在 [gh-pages](https://github.com/jaywcjlove/sb/tree/gh-pages) 分支中。
 
 ```markdown
-![图片名称](http://图片网址)
+![Image-Name](http://jaywcjlove.github.io/sb/<Image-Name>.svg)
+
+![appstore.svg](http://jaywcjlove.github.io/sb/download/appstore.svg)
 ```
 
 [View All](http://jaywcjlove.github.io/sb/)
 
-## Progressed
+<!--icon-start-->
 
-`http://jaywcjlove.github.io/sb/p/1.svg` 图片名称`[0~100]`
+## build
 
-| 图标 | 图标 | 图标 | 图标 | 图标 | 图标 |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/94.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/99.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/65.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/36.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/88.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/78.svg) |
-| ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/12.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/66.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/0.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/21.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/57.svg) | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/progressed/55.svg) |
+![build/failing.svg](http://jaywcjlove.github.io/sb/build/failing.svg) ![build/inaccessible.svg](http://jaywcjlove.github.io/sb/build/inaccessible.svg) ![build/invalid.svg](http://jaywcjlove.github.io/sb/build/invalid.svg) ![build/passing.svg](http://jaywcjlove.github.io/sb/build/passing.svg) 
+
+## download
+
+![download/amazon.svg](http://jaywcjlove.github.io/sb/download/amazon.svg) ![download/appstore.svg](http://jaywcjlove.github.io/sb/download/appstore.svg) ![download/chrome-web-store.svg](http://jaywcjlove.github.io/sb/download/chrome-web-store.svg) ![download/googleplay.svg](http://jaywcjlove.github.io/sb/download/googleplay.svg) ![download/macos.svg](http://jaywcjlove.github.io/sb/download/macos.svg) ![download/made-for-iphone.svg](http://jaywcjlove.github.io/sb/download/made-for-iphone.svg) ![download/made_for_iPod.svg](http://jaywcjlove.github.io/sb/download/made_for_iPod.svg) ![download/white-amazon.svg](http://jaywcjlove.github.io/sb/download/white-amazon.svg) ![download/white-appstore.svg](http://jaywcjlove.github.io/sb/download/white-appstore.svg) ![download/white-chrome-web-store.svg](http://jaywcjlove.github.io/sb/download/white-chrome-web-store.svg) ![download/white-googleplay.svg](http://jaywcjlove.github.io/sb/download/white-googleplay.svg) ![download/white-macos.svg](http://jaywcjlove.github.io/sb/download/white-macos.svg) ![download/white-made-for-iphone.svg](http://jaywcjlove.github.io/sb/download/white-made-for-iphone.svg) ![download/white-made_for_iPod.svg](http://jaywcjlove.github.io/sb/download/white-made_for_iPod.svg) ![download/white-window.svg](http://jaywcjlove.github.io/sb/download/white-window.svg) ![download/window.svg](http://jaywcjlove.github.io/sb/download/window.svg) 
+
+## github
+
+![github/alt-follow.svg](http://jaywcjlove.github.io/sb/github/alt-follow.svg) ![github/alt-fork.svg](http://jaywcjlove.github.io/sb/github/alt-fork.svg) ![github/alt-star.svg](http://jaywcjlove.github.io/sb/github/alt-star.svg) ![github/alt.svg](http://jaywcjlove.github.io/sb/github/alt.svg) ![github/black-follow.svg](http://jaywcjlove.github.io/sb/github/black-follow.svg) ![github/black-fork.svg](http://jaywcjlove.github.io/sb/github/black-fork.svg) ![github/black-star.svg](http://jaywcjlove.github.io/sb/github/black-star.svg) ![github/black.svg](http://jaywcjlove.github.io/sb/github/black.svg) ![github/green-alt-follow.svg](http://jaywcjlove.github.io/sb/github/green-alt-follow.svg) ![github/green-alt-fork.svg](http://jaywcjlove.github.io/sb/github/green-alt-fork.svg) ![github/green-alt-star.svg](http://jaywcjlove.github.io/sb/github/green-alt-star.svg) ![github/green-alt.svg](http://jaywcjlove.github.io/sb/github/green-alt.svg) ![github/green-follow.svg](http://jaywcjlove.github.io/sb/github/green-follow.svg) ![github/green-fork.svg](http://jaywcjlove.github.io/sb/github/green-fork.svg) ![github/green-star.svg](http://jaywcjlove.github.io/sb/github/green-star.svg) ![github/green.svg](http://jaywcjlove.github.io/sb/github/green.svg) ![github/w-alt-follow.svg](http://jaywcjlove.github.io/sb/github/w-alt-follow.svg) ![github/w-alt-fork.svg](http://jaywcjlove.github.io/sb/github/w-alt-fork.svg) ![github/w-alt-star.svg](http://jaywcjlove.github.io/sb/github/w-alt-star.svg) ![github/w-alt.svg](http://jaywcjlove.github.io/sb/github/w-alt.svg) ![github/w-follow.svg](http://jaywcjlove.github.io/sb/github/w-follow.svg) ![github/w-fork.svg](http://jaywcjlove.github.io/sb/github/w-fork.svg) ![github/w-star.svg](http://jaywcjlove.github.io/sb/github/w-star.svg) ![github/w.svg](http://jaywcjlove.github.io/sb/github/w.svg) 
+
+## ico
+
+![ico/58.svg](http://jaywcjlove.github.io/sb/ico/58.svg) ![ico/alipay-1.svg](http://jaywcjlove.github.io/sb/ico/alipay-1.svg) ![ico/alipay.svg](http://jaywcjlove.github.io/sb/ico/alipay.svg) ![ico/awesome.svg](http://jaywcjlove.github.io/sb/ico/awesome.svg) ![ico/baidu.svg](http://jaywcjlove.github.io/sb/ico/baidu.svg) ![ico/bower.svg](http://jaywcjlove.github.io/sb/ico/bower.svg) ![ico/cctv.svg](http://jaywcjlove.github.io/sb/ico/cctv.svg) ![ico/csdn.svg](http://jaywcjlove.github.io/sb/ico/csdn.svg) ![ico/email.svg](http://jaywcjlove.github.io/sb/ico/email.svg) ![ico/express.svg](http://jaywcjlove.github.io/sb/ico/express.svg) ![ico/facebook.svg](http://jaywcjlove.github.io/sb/ico/facebook.svg) ![ico/gitee.svg](http://jaywcjlove.github.io/sb/ico/gitee.svg) ![ico/gitter.svg](http://jaywcjlove.github.io/sb/ico/gitter.svg) ![ico/google+.svg](http://jaywcjlove.github.io/sb/ico/google+.svg) ![ico/group.svg](http://jaywcjlove.github.io/sb/ico/group.svg) ![ico/grunt-build-with.svg](http://jaywcjlove.github.io/sb/ico/grunt-build-with.svg) ![ico/grunt.svg](http://jaywcjlove.github.io/sb/ico/grunt.svg) ![ico/gulp-build-with.svg](http://jaywcjlove.github.io/sb/ico/gulp-build-with.svg) ![ico/gulp.svg](http://jaywcjlove.github.io/sb/ico/gulp.svg) ![ico/hexo.svg](http://jaywcjlove.github.io/sb/ico/hexo.svg) ![ico/linkedin.svg](http://jaywcjlove.github.io/sb/ico/linkedin.svg) ![ico/linux.svg](http://jaywcjlove.github.io/sb/ico/linux.svg) ![ico/min-app-store.svg](http://jaywcjlove.github.io/sb/ico/min-app-store.svg) ![ico/min-awesome.svg](http://jaywcjlove.github.io/sb/ico/min-awesome.svg) ![ico/min-bibei.svg](http://jaywcjlove.github.io/sb/ico/min-bibei.svg) ![ico/min-free.svg](http://jaywcjlove.github.io/sb/ico/min-free.svg) ![ico/min-hot.svg](http://jaywcjlove.github.io/sb/ico/min-hot.svg) ![ico/min-oss.svg](http://jaywcjlove.github.io/sb/ico/min-oss.svg) ![ico/min-tuijian.svg](http://jaywcjlove.github.io/sb/ico/min-tuijian.svg) ![ico/mysql.svg](http://jaywcjlove.github.io/sb/ico/mysql.svg) ![ico/nodejs.svg](http://jaywcjlove.github.io/sb/ico/nodejs.svg) ![ico/npm.svg](http://jaywcjlove.github.io/sb/ico/npm.svg) ![ico/qq.svg](http://jaywcjlove.github.io/sb/ico/qq.svg) ![ico/qqweibo.svg](http://jaywcjlove.github.io/sb/ico/qqweibo.svg) ![ico/qzone.svg](http://jaywcjlove.github.io/sb/ico/qzone.svg) ![ico/reddit.svg](http://jaywcjlove.github.io/sb/ico/reddit.svg) ![ico/redhat.svg](http://jaywcjlove.github.io/sb/ico/redhat.svg) ![ico/redis.svg](http://jaywcjlove.github.io/sb/ico/redis.svg) ![ico/sass.svg](http://jaywcjlove.github.io/sb/ico/sass.svg) ![ico/segmentfault.svg](http://jaywcjlove.github.io/sb/ico/segmentfault.svg) ![ico/stackoverflow.svg](http://jaywcjlove.github.io/sb/ico/stackoverflow.svg) ![ico/stylus.svg](http://jaywcjlove.github.io/sb/ico/stylus.svg) ![ico/tudou.svg](http://jaywcjlove.github.io/sb/ico/tudou.svg) ![ico/twitter-follow.svg](http://jaywcjlove.github.io/sb/ico/twitter-follow.svg) ![ico/twitter-tweet.svg](http://jaywcjlove.github.io/sb/ico/twitter-tweet.svg) ![ico/twitter.svg](http://jaywcjlove.github.io/sb/ico/twitter.svg) ![ico/ubuntu.svg](http://jaywcjlove.github.io/sb/ico/ubuntu.svg) ![ico/wechat.svg](http://jaywcjlove.github.io/sb/ico/wechat.svg) ![ico/weibo.svg](http://jaywcjlove.github.io/sb/ico/weibo.svg) ![ico/xitu.svg](http://jaywcjlove.github.io/sb/ico/xitu.svg) ![ico/xunlei.svg](http://jaywcjlove.github.io/sb/ico/xunlei.svg) ![ico/youku.svg](http://jaywcjlove.github.io/sb/ico/youku.svg) ![ico/zhihu.svg](http://jaywcjlove.github.io/sb/ico/zhihu.svg) 
+
+## lang
+
+![lang/chinese.svg](http://jaywcjlove.github.io/sb/lang/chinese.svg) ![lang/english.svg](http://jaywcjlove.github.io/sb/lang/english.svg) 
+
+## license
+
+![license/apache.svg](http://jaywcjlove.github.io/sb/license/apache.svg) ![license/bsd.svg](http://jaywcjlove.github.io/sb/license/bsd.svg) ![license/gpl.svg](http://jaywcjlove.github.io/sb/license/gpl.svg) ![license/lgpl.svg](http://jaywcjlove.github.io/sb/license/lgpl.svg) ![license/mit.svg](http://jaywcjlove.github.io/sb/license/mit.svg) ![license/mozilla.svg](http://jaywcjlove.github.io/sb/license/mozilla.svg) 
+
+## open
+
+![open/open-in-gitpod.svg](http://jaywcjlove.github.io/sb/open/open-in-gitpod.svg) ![open/open-in-vscode.svg](http://jaywcjlove.github.io/sb/open/open-in-vscode.svg) 
+
+## plugin
+
+![plugin/angularjs.svg](http://jaywcjlove.github.io/sb/plugin/angularjs.svg) ![plugin/jquery.svg](http://jaywcjlove.github.io/sb/plugin/jquery.svg) ![plugin/jslite.svg](http://jaywcjlove.github.io/sb/plugin/jslite.svg) ![plugin/vue.svg](http://jaywcjlove.github.io/sb/plugin/vue.svg) ![plugin/zepto.svg](http://jaywcjlove.github.io/sb/plugin/zepto.svg) 
+
+## progressed
+
+![progressed/0.svg](http://jaywcjlove.github.io/sb/progressed/0.svg) ![progressed/1.svg](http://jaywcjlove.github.io/sb/progressed/1.svg) ![progressed/10.svg](http://jaywcjlove.github.io/sb/progressed/10.svg) ![progressed/100.svg](http://jaywcjlove.github.io/sb/progressed/100.svg) ![progressed/11.svg](http://jaywcjlove.github.io/sb/progressed/11.svg) ![progressed/12.svg](http://jaywcjlove.github.io/sb/progressed/12.svg) ![progressed/13.svg](http://jaywcjlove.github.io/sb/progressed/13.svg) ![progressed/14.svg](http://jaywcjlove.github.io/sb/progressed/14.svg) ![progressed/15.svg](http://jaywcjlove.github.io/sb/progressed/15.svg) ![progressed/16.svg](http://jaywcjlove.github.io/sb/progressed/16.svg) ![progressed/17.svg](http://jaywcjlove.github.io/sb/progressed/17.svg) ![progressed/18.svg](http://jaywcjlove.github.io/sb/progressed/18.svg) ![progressed/19.svg](http://jaywcjlove.github.io/sb/progressed/19.svg) ![progressed/2.svg](http://jaywcjlove.github.io/sb/progressed/2.svg) ![progressed/20.svg](http://jaywcjlove.github.io/sb/progressed/20.svg) ![progressed/21.svg](http://jaywcjlove.github.io/sb/progressed/21.svg) ![progressed/22.svg](http://jaywcjlove.github.io/sb/progressed/22.svg) ![progressed/23.svg](http://jaywcjlove.github.io/sb/progressed/23.svg) ![progressed/24.svg](http://jaywcjlove.github.io/sb/progressed/24.svg) ![progressed/25.svg](http://jaywcjlove.github.io/sb/progressed/25.svg) ![progressed/26.svg](http://jaywcjlove.github.io/sb/progressed/26.svg) ![progressed/27.svg](http://jaywcjlove.github.io/sb/progressed/27.svg) ![progressed/28.svg](http://jaywcjlove.github.io/sb/progressed/28.svg) ![progressed/29.svg](http://jaywcjlove.github.io/sb/progressed/29.svg) ![progressed/3.svg](http://jaywcjlove.github.io/sb/progressed/3.svg) ![progressed/30.svg](http://jaywcjlove.github.io/sb/progressed/30.svg) ![progressed/31.svg](http://jaywcjlove.github.io/sb/progressed/31.svg) ![progressed/32.svg](http://jaywcjlove.github.io/sb/progressed/32.svg) ![progressed/33.svg](http://jaywcjlove.github.io/sb/progressed/33.svg) ![progressed/34.svg](http://jaywcjlove.github.io/sb/progressed/34.svg) ![progressed/35.svg](http://jaywcjlove.github.io/sb/progressed/35.svg) ![progressed/36.svg](http://jaywcjlove.github.io/sb/progressed/36.svg) ![progressed/37.svg](http://jaywcjlove.github.io/sb/progressed/37.svg) ![progressed/38.svg](http://jaywcjlove.github.io/sb/progressed/38.svg) ![progressed/39.svg](http://jaywcjlove.github.io/sb/progressed/39.svg) ![progressed/4.svg](http://jaywcjlove.github.io/sb/progressed/4.svg) ![progressed/40.svg](http://jaywcjlove.github.io/sb/progressed/40.svg) ![progressed/41.svg](http://jaywcjlove.github.io/sb/progressed/41.svg) ![progressed/42.svg](http://jaywcjlove.github.io/sb/progressed/42.svg) ![progressed/43.svg](http://jaywcjlove.github.io/sb/progressed/43.svg) ![progressed/44.svg](http://jaywcjlove.github.io/sb/progressed/44.svg) ![progressed/45.svg](http://jaywcjlove.github.io/sb/progressed/45.svg) ![progressed/46.svg](http://jaywcjlove.github.io/sb/progressed/46.svg) ![progressed/47.svg](http://jaywcjlove.github.io/sb/progressed/47.svg) ![progressed/48.svg](http://jaywcjlove.github.io/sb/progressed/48.svg) ![progressed/49.svg](http://jaywcjlove.github.io/sb/progressed/49.svg) ![progressed/5.svg](http://jaywcjlove.github.io/sb/progressed/5.svg) ![progressed/50.svg](http://jaywcjlove.github.io/sb/progressed/50.svg) ![progressed/51.svg](http://jaywcjlove.github.io/sb/progressed/51.svg) ![progressed/52.svg](http://jaywcjlove.github.io/sb/progressed/52.svg) ![progressed/53.svg](http://jaywcjlove.github.io/sb/progressed/53.svg) ![progressed/54.svg](http://jaywcjlove.github.io/sb/progressed/54.svg) ![progressed/55.svg](http://jaywcjlove.github.io/sb/progressed/55.svg) ![progressed/56.svg](http://jaywcjlove.github.io/sb/progressed/56.svg) ![progressed/57.svg](http://jaywcjlove.github.io/sb/progressed/57.svg) ![progressed/58.svg](http://jaywcjlove.github.io/sb/progressed/58.svg) ![progressed/59.svg](http://jaywcjlove.github.io/sb/progressed/59.svg) ![progressed/6.svg](http://jaywcjlove.github.io/sb/progressed/6.svg) ![progressed/60.svg](http://jaywcjlove.github.io/sb/progressed/60.svg) ![progressed/61.svg](http://jaywcjlove.github.io/sb/progressed/61.svg) ![progressed/62.svg](http://jaywcjlove.github.io/sb/progressed/62.svg) ![progressed/63.svg](http://jaywcjlove.github.io/sb/progressed/63.svg) ![progressed/64.svg](http://jaywcjlove.github.io/sb/progressed/64.svg) ![progressed/65.svg](http://jaywcjlove.github.io/sb/progressed/65.svg) ![progressed/66.svg](http://jaywcjlove.github.io/sb/progressed/66.svg) ![progressed/67.svg](http://jaywcjlove.github.io/sb/progressed/67.svg) ![progressed/68.svg](http://jaywcjlove.github.io/sb/progressed/68.svg) ![progressed/69.svg](http://jaywcjlove.github.io/sb/progressed/69.svg) ![progressed/7.svg](http://jaywcjlove.github.io/sb/progressed/7.svg) ![progressed/70.svg](http://jaywcjlove.github.io/sb/progressed/70.svg) ![progressed/71.svg](http://jaywcjlove.github.io/sb/progressed/71.svg) ![progressed/72.svg](http://jaywcjlove.github.io/sb/progressed/72.svg) ![progressed/73.svg](http://jaywcjlove.github.io/sb/progressed/73.svg) ![progressed/74.svg](http://jaywcjlove.github.io/sb/progressed/74.svg) ![progressed/75.svg](http://jaywcjlove.github.io/sb/progressed/75.svg) ![progressed/76.svg](http://jaywcjlove.github.io/sb/progressed/76.svg) ![progressed/77.svg](http://jaywcjlove.github.io/sb/progressed/77.svg) ![progressed/78.svg](http://jaywcjlove.github.io/sb/progressed/78.svg) ![progressed/79.svg](http://jaywcjlove.github.io/sb/progressed/79.svg) ![progressed/8.svg](http://jaywcjlove.github.io/sb/progressed/8.svg) ![progressed/80.svg](http://jaywcjlove.github.io/sb/progressed/80.svg) ![progressed/81.svg](http://jaywcjlove.github.io/sb/progressed/81.svg) ![progressed/82.svg](http://jaywcjlove.github.io/sb/progressed/82.svg) ![progressed/83.svg](http://jaywcjlove.github.io/sb/progressed/83.svg) ![progressed/84.svg](http://jaywcjlove.github.io/sb/progressed/84.svg) ![progressed/85.svg](http://jaywcjlove.github.io/sb/progressed/85.svg) ![progressed/86.svg](http://jaywcjlove.github.io/sb/progressed/86.svg) ![progressed/87.svg](http://jaywcjlove.github.io/sb/progressed/87.svg) ![progressed/88.svg](http://jaywcjlove.github.io/sb/progressed/88.svg) ![progressed/89.svg](http://jaywcjlove.github.io/sb/progressed/89.svg) ![progressed/9.svg](http://jaywcjlove.github.io/sb/progressed/9.svg) ![progressed/90.svg](http://jaywcjlove.github.io/sb/progressed/90.svg) ![progressed/91.svg](http://jaywcjlove.github.io/sb/progressed/91.svg) ![progressed/92.svg](http://jaywcjlove.github.io/sb/progressed/92.svg) ![progressed/93.svg](http://jaywcjlove.github.io/sb/progressed/93.svg) ![progressed/94.svg](http://jaywcjlove.github.io/sb/progressed/94.svg) ![progressed/95.svg](http://jaywcjlove.github.io/sb/progressed/95.svg) ![progressed/96.svg](http://jaywcjlove.github.io/sb/progressed/96.svg) ![progressed/97.svg](http://jaywcjlove.github.io/sb/progressed/97.svg) ![progressed/98.svg](http://jaywcjlove.github.io/sb/progressed/98.svg) ![progressed/99.svg](http://jaywcjlove.github.io/sb/progressed/99.svg) 
+
+## star
+
+![star/black.svg](http://jaywcjlove.github.io/sb/star/black.svg) ![star/gray.svg](http://jaywcjlove.github.io/sb/star/gray.svg) ![star/red.svg](http://jaywcjlove.github.io/sb/star/red.svg) ![star/red0.svg](http://jaywcjlove.github.io/sb/star/red0.svg) ![star/red1.svg](http://jaywcjlove.github.io/sb/star/red1.svg) ![star/red2.svg](http://jaywcjlove.github.io/sb/star/red2.svg) ![star/red3.svg](http://jaywcjlove.github.io/sb/star/red3.svg) ![star/red4.svg](http://jaywcjlove.github.io/sb/star/red4.svg) ![star/red5.svg](http://jaywcjlove.github.io/sb/star/red5.svg) 
+
+## status
+
+![status/no-dependencies.svg](http://jaywcjlove.github.io/sb/status/no-dependencies.svg) ![status/pod-invalid.svg](http://jaywcjlove.github.io/sb/status/pod-invalid.svg) ![status/stable.svg](http://jaywcjlove.github.io/sb/status/stable.svg) ![status/wheel-no.svg](http://jaywcjlove.github.io/sb/status/wheel-no.svg) <!--icon-end-->
+
+## Development
+
+```bash
+npm install # Install dependencies
+node build.js
+```
 
 ## License
 
-| apache.svg | bsd.svg | gpl.svg | lgpl.svg | mit.svg | mozilla.svg |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| ![](http://jaywcjlove.github.io/sb/license/apache.svg) | ![](http://jaywcjlove.github.io/sb/license/bsd.svg) | ![](http://jaywcjlove.github.io/sb/license/gpl.svg) | ![](http://jaywcjlove.github.io/sb/license/lgpl.svg) | ![](http://jaywcjlove.github.io/sb/license/mit.svg) | ![](http://jaywcjlove.github.io/sb/license/mozilla.svg) |
-
-## Plugin
-
-| jquery.svg | jslite.svg | zepto.svg | angularjs.svg | vue.svg |
-| ---- | ---- | ---- | ---- |---- |
-| ![](http://jaywcjlove.github.io/sb/plugin/jquery.svg) | ![](http://jaywcjlove.github.io/sb/plugin/jslite.svg) | ![](http://jaywcjlove.github.io/sb/plugin/zepto.svg) | ![](http://jaywcjlove.github.io/sb/plugin/angularjs.svg) | ![](http://jaywcjlove.github.io/sb/plugin/vue.svg) |
-
-
-## 其它图标
-
-|      |      |      |      |      |      |
-| ---- | ---- | ---- | ---- | ---- | ---- |
-| baidu.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/baidu.svg) | facebook.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/facebook.svg) | gitter.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/gitter.svg) |
-| google+.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/google+.svg) | linkedin.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/linkedin.svg) | qq.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/qq.svg) |
-| qqweibo.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/qqweibo.svg) | qzone.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/qzone.svg) | twitter.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/twitter.svg) |
-| wechat.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/wechat.svg) | weibo.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/weibo.svg) | zhihu.svg | ![jaywcjlove/sb](http://jaywcjlove.github.io/sb/ico/zhihu.svg) |
-| alipay-1.svg | ![](http://jaywcjlove.github.io/sb/ico/alipay-1.svg) | alipay.svg | ![](http://jaywcjlove.github.io/sb/ico/alipay.svg) | group.svg | ![](http://jaywcjlove.github.io/sb/ico/group.svg) | 
-| segmentfault.svg | ![](http://jaywcjlove.github.io/sb/ico/segmentfault.svg) | stackoverflow.svg | ![](http://jaywcjlove.github.io/sb/ico/stackoverflow.svg) | awesome.svg | ![](http://jaywcjlove.github.io/sb/ico/awesome.svg) |
-| bower.svg | ![](http://jaywcjlove.github.io/sb/ico/bower.svg) | grunt.svg | ![](http://jaywcjlove.github.io/sb/ico/grunt.svg) | gulp.svg | ![](http://jaywcjlove.github.io/sb/ico/gulp.svg) |
-| express.svg | ![](http://jaywcjlove.github.io/sb/ico/express.svg) | hexo.svg | ![](http://jaywcjlove.github.io/sb/ico/hexo.svg) | npm.svg | ![](http://jaywcjlove.github.io/sb/ico/npm.svg) |
-| redis.svg | ![](http://jaywcjlove.github.io/sb/ico/redis.svg) | twitter-follow.svg | ![](http://jaywcjlove.github.io/sb/ico/twitter-follow.svg) | twitter-tweet.svg | ![](http://jaywcjlove.github.io/sb/ico/twitter-tweet.svg) |
-| xitu.svg | ![](http://jaywcjlove.github.io/sb/ico/xitu.svg) | gitee.svg | ![](http://jaywcjlove.github.io/sb/ico/gitee.svg) | redhat.svg | ![](http://jaywcjlove.github.io/sb/ico/redhat.svg) |
-
-## Github
-
-`http://jaywcjlove.github.io/sb/github/alt-follow.svg` 图片名字更换
-
-
-| alt-follow.svg | alt-fork.svg | alt-star.svg | alt.svg |
-| ---- | ---- | ---- | ---- |
-| ![](http://jaywcjlove.github.io/sb/github/alt-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/alt-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/alt-star.svg) | ![](http://jaywcjlove.github.io/sb/github/alt.svg) |
-| black-follow.svg | black-fork.svg | black-star.svg | black.svg |
-| ![](http://jaywcjlove.github.io/sb/github/black-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/black-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/black-star.svg) | ![](http://jaywcjlove.github.io/sb/github/black.svg) |
-| green-alt-follow.svg | green-alt-fork.svg | green-alt-star.svg | green-alt.svg |
-| ![](http://jaywcjlove.github.io/sb/github/green-alt-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/green-alt-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/green-alt-star.svg) | ![](http://jaywcjlove.github.io/sb/github/green-alt.svg) |
-| green-follow.svg | green-fork.svg | green-star.svg | green.svg |
-| ![](http://jaywcjlove.github.io/sb/github/green-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/green-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/green-star.svg) | ![](http://jaywcjlove.github.io/sb/github/green.svg) |
-| w-alt-follow.svg | w-alt-fork.svg | w-alt-star.svg | w-alt.svg |
-| ![](http://jaywcjlove.github.io/sb/github/w-alt-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/w-alt-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/w-alt-star.svg) | ![](http://jaywcjlove.github.io/sb/github/w-alt.svg) |
-| w-follow.svg | w-fork.svg | w-star.svg | w.svg |
-| ![](http://jaywcjlove.github.io/sb/github/w-follow.svg) | ![](http://jaywcjlove.github.io/sb/github/w-fork.svg) | ![](http://jaywcjlove.github.io/sb/github/w-star.svg) | ![](http://jaywcjlove.github.io/sb/github/w.svg) |
-
-
-## 生成图标网站
-
-```bash
-node build.js
-```
+Licensed under the MIT License.

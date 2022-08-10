@@ -41,23 +41,29 @@ function initData(dirname) {
   await initData(path_root);
   fs.writeFileSync(path.join(path_root, 'data.json'), JSON.stringify(data, null, 4));
 
-
   let ulStr = '';
   let svgTotal = 0;
+  let markdownStr = '';
 
   Object.keys(data).forEach((keyName) => {
+    markdownStr += `\n\n## ${keyName}\n\n`;
     ulStr += `  <h2 class="title">${keyName}</h2>\n`;
     ulStr += '  <ul>\n';
     if (data[keyName].length > 0) {
       svgTotal += data[keyName].length;
       data[keyName].forEach((item) => {
         ulStr += `    <li><img src="${item}" /></li>\n`;
+        markdownStr += `![${item}](http://jaywcjlove.github.io/sb/${item}) `;
       });
     }
     ulStr += '  </ul>\n';
   });
-  console.log('\n => 共有' + svgTotal + '个SVG文件');
+  console.log();
+  console.log(` => 共有 \x1b[32;1m${svgTotal}\x1b[0m 个 SVG 文件`);
   const htmlStr = fs.readFileSync(path.join(path_root, 'template.html'), 'utf8');
   fs.writeFileSync(path.join(path_root, 'index.html'), htmlStr.replace('{{content}}', ulStr));
-  console.log("\n写入文件ok!!\n");
+  console.log(" => 写入文件 ok!!");
+  console.log();
+  const mdStr = fs.readFileSync(path.join(path_root, 'README.md'), 'utf8');
+  fs.writeFileSync(path.join(path_root, 'README.md'), mdStr.replace(/<!--icon-start-->([\s\S]*?)?<!--icon-end-->/g, `<!--icon-start-->${markdownStr}<!--icon-end-->`));
 })();
