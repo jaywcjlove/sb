@@ -25,7 +25,7 @@ function initData(dirname) {
     const filesArr = []
     files.forEach(async (_filename, idx) => {
       _filepath = path.join(dirname, _filename)
-      if (_filename !== '.git' && _filename !== '.github' && _filename !== 'svg' && _filename !== '.DS_Store') {
+      if (_filename !== '.git' && _filename !== '.github' && _filename !== 'www' && _filename !== 'svg' && _filename !== '.DS_Store') {
         if (isDir(_filepath)) {
           data[_filename] = await initData(_filepath);
         } else if (isFile(_filepath)) {
@@ -39,7 +39,7 @@ function initData(dirname) {
 
 ; (async () => {
   await initData(path_root);
-  fs.writeFileSync(path.join(path_root, 'data.json'), JSON.stringify(data, null, 4));
+  fs.writeFileSync(path.join(path_root, 'data.json'), JSON.stringify(data, null, 2));
 
   let ulStr = '';
   let svgTotal = 0;
@@ -61,7 +61,7 @@ function initData(dirname) {
   console.log();
   console.log(` => 共有 \x1b[32;1m${svgTotal}\x1b[0m 个 SVG 文件`);
   const htmlStr = fs.readFileSync(path.join(path_root, 'template.html'), 'utf8');
-  fs.writeFileSync(path.join(path_root, 'index.html'), htmlStr.replace('{{content}}', ulStr));
+  fs.writeFileSync(path.join(path_root, 'www', 'index.html'), htmlStr.replace('{{content}}', ulStr));
   console.log(" => 写入文件 ok!!");
   console.log();
   const mdStr = fs.readFileSync(path.join(path_root, 'README.md'), 'utf8');
