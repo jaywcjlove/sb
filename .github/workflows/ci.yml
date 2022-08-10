@@ -14,7 +14,7 @@ jobs:
           node-version: 16
 
       - run: node build.js
-      - run: mkdir www
+      - run: mkdir -p www
       - run: cp -r build download github ico lang license open plugin progressed star status www
 
       - name: Deploy
