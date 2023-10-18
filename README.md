@@ -20,7 +20,24 @@ SVG Badges
 
 ## download
 
-[![download/amazon.svg](http://jaywcjlove.github.io/sb/download/amazon.svg)](http://jaywcjlove.github.io/sb/download/amazon.svg) [![download/appstore.svg](http://jaywcjlove.github.io/sb/download/appstore.svg)](http://jaywcjlove.github.io/sb/download/appstore.svg) [![download/chrome-web-store.svg](http://jaywcjlove.github.io/sb/download/chrome-web-store.svg)](http://jaywcjlove.github.io/sb/download/chrome-web-store.svg) [![download/googleplay.svg](http://jaywcjlove.github.io/sb/download/googleplay.svg)](http://jaywcjlove.github.io/sb/download/googleplay.svg) [![download/macos.svg](http://jaywcjlove.github.io/sb/download/macos.svg)](http://jaywcjlove.github.io/sb/download/macos.svg) [![download/made-for-iphone.svg](http://jaywcjlove.github.io/sb/download/made-for-iphone.svg)](http://jaywcjlove.github.io/sb/download/made-for-iphone.svg) [![download/made_for_iPod.svg](http://jaywcjlove.github.io/sb/download/made_for_iPod.svg)](http://jaywcjlove.github.io/sb/download/made_for_iPod.svg) [![download/white-amazon.svg](http://jaywcjlove.github.io/sb/download/white-amazon.svg)](http://jaywcjlove.github.io/sb/download/white-amazon.svg) [![download/white-appstore.svg](http://jaywcjlove.github.io/sb/download/white-appstore.svg)](http://jaywcjlove.github.io/sb/download/white-appstore.svg) [![download/white-chrome-web-store.svg](http://jaywcjlove.github.io/sb/download/white-chrome-web-store.svg)](http://jaywcjlove.github.io/sb/download/white-chrome-web-store.svg) [![download/white-googleplay.svg](http://jaywcjlove.github.io/sb/download/white-googleplay.svg)](http://jaywcjlove.github.io/sb/download/white-googleplay.svg) [![download/white-macos.svg](http://jaywcjlove.github.io/sb/download/white-macos.svg)](http://jaywcjlove.github.io/sb/download/white-macos.svg) [![download/white-made-for-iphone.svg](http://jaywcjlove.github.io/sb/download/white-made-for-iphone.svg)](http://jaywcjlove.github.io/sb/download/white-made-for-iphone.svg) [![download/white-made_for_iPod.svg](http://jaywcjlove.github.io/sb/download/white-made_for_iPod.svg)](http://jaywcjlove.github.io/sb/download/white-made_for_iPod.svg) [![download/white-window.svg](http://jaywcjlove.github.io/sb/download/white-window.svg)](http://jaywcjlove.github.io/sb/download/white-window.svg) [![download/window.svg](http://jaywcjlove.github.io/sb/download/window.svg)](http://jaywcjlove.github.io/sb/download/window.svg) 
+[![download/amazon.svg](http://jaywcjlove.github.io/sb/download/amazon.svg)](http://jaywcjlove.github.io/sb/download/amazon.svg)
+[![download/appstore.svg](http://jaywcjlove.github.io/sb/download/appstore.svg)](http://jaywcjlove.github.io/sb/download/appstore.svg)
+[![download/chrome-web-store.svg](http://jaywcjlove.github.io/sb/download/chrome-web-store.svg)](http://jaywcjlove.github.io/sb/download/chrome-web-store.svg)
+[![download/googleplay.svg](http://jaywcjlove.github.io/sb/download/googleplay.svg)](http://jaywcjlove.github.io/sb/download/googleplay.svg)
+[![download/macos.svg](http://jaywcjlove.github.io/sb/download/macos.svg)](http://jaywcjlove.github.io/sb/download/macos.svg)
+[![download/made-for-iphone.svg](http://jaywcjlove.github.io/sb/download/made-for-iphone.svg)](http://jaywcjlove.github.io/sb/download/made-for-iphone.svg)
+[![download/made_for_iPod.svg](http://jaywcjlove.github.io/sb/download/made_for_iPod.svg)](http://jaywcjlove.github.io/sb/download/made_for_iPod.svg)
+[![download/white-amazon.svg](http://jaywcjlove.github.io/sb/download/white-amazon.svg)](http://jaywcjlove.github.io/sb/download/white-amazon.svg)
+[![download/white-appstore.svg](http://jaywcjlove.github.io/sb/download/white-appstore.svg)](http://jaywcjlove.github.io/sb/download/white-appstore.svg)
+[![download/white-chrome-web-store.svg](http://jaywcjlove.github.io/sb/download/white-chrome-web-store.svg)](http://jaywcjlove.github.io/sb/download/white-chrome-web-store.svg)
+[![download/white-googleplay.svg](http://jaywcjlove.github.io/sb/download/white-googleplay.svg)](http://jaywcjlove.github.io/sb/download/white-googleplay.svg)
+[![download/white-macos.svg](http://jaywcjlove.github.io/sb/download/white-macos.svg)](http://jaywcjlove.github.io/sb/download/white-macos.svg)
+[![download/white-made-for-iphone.svg](http://jaywcjlove.github.io/sb/download/white-made-for-iphone.svg)](http://jaywcjlove.github.io/sb/download/white-made-for-iphone.svg)
+[![download/white-made_for_iPod.svg](http://jaywcjlove.github.io/sb/download/white-made_for_iPod.svg)](http://jaywcjlove.github.io/sb/download/white-made_for_iPod.svg)
+[![download/white-window.svg](http://jaywcjlove.github.io/sb/download/white-window.svg)](http://jaywcjlove.github.io/sb/download/white-window.svg)
+[![download/window.svg](http://jaywcjlove.github.io/sb/download/window.svg)](http://jaywcjlove.github.io/sb/download/window.svg)
+[![download/open-source.svg](http://jaywcjlove.github.io/sb/download/open-source.svg)](http://jaywcjlove.github.io/sb/download/open-source.svg)
+[![download/white-open-source.svg](http://jaywcjlove.github.io/sb/download/white-open-source.svg)](http://jaywcjlove.github.io/sb/download/white-open-source.svg)
 
 ## github
 
