@@ -1,18 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138" height="32" viewBox="0 0 138 32">
-  <defs>
-    <rect id="open-in-gitpod-a" width="138" height="32" rx="4"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd" opacity=".9">
-    <mask id="open-in-gitpod-b" fill="#fff">
-      <use xlink:href="#open-in-gitpod-a"/>
-    </mask>
-    <use fill="#1966D2" xlink:href="#open-in-gitpod-a"/>
-    <text fill="#FFF" font-family="Helvetica" font-size="14" mask="url(#open-in-gitpod-b)" opacity=".75">
-      <tspan x="73.5" y="21.4">in Gitpod</tspan>
-    </text>
-    <text fill="#FFF" font-family="Helvetica" font-size="14" mask="url(#open-in-gitpod-b)">
-      <tspan x="35" y="21.4">Open</tspan>
-    </text>
-    <path fill="#FFF" d="M12.974,20.158 L19.977,24.17 L19.977,26.243 L11.2,21.177 L11.2,21.176 L11.2,11.033 L12.974,12.057 L12.974,20.158 Z M19.977,22.095 L14.774,19.115 L14.774,13.096 L19.977,16.1 L19.977,22.095 Z M20.135,7.755 L13.127,11.799 L11.349,10.773 L20.135,5.7 L28.921,10.774 L27.149,11.797 L20.135,7.755 Z M25.348,12.837 L20.135,15.845 L14.927,12.838 L20.136,9.833 L25.348,12.837 Z M20.277,22.106 L20.277,16.11 L29.07,11.035 L29.07,21.177 L29.07,21.178 L20.277,26.253 L20.277,24.179 L27.302,20.158 L27.302,13.97 L21.901,17.044 L21.901,19.115 L25.502,17.066 L25.502,19.114 L20.277,22.106 Z" mask="url(#open-in-gitpod-b)"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138" height="32" viewBox="0 0 138 32"><defs><rect id="a" width="138" height="32" x="0" y="0" rx="4"/></defs><g fill="none" fill-rule="evenodd" opacity=".9"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><use xlink:href="#a" fill="#1966D2"/><text fill="#FFF" font-family="Helvetica" font-size="14" mask="url(#b)" opacity=".75">
+                <tspan x="73.5" y="21.4">in Gitpod</tspan>
+            </text><text fill="#FFF" font-family="Helvetica" font-size="14" mask="url(#b)">
+                <tspan x="35" y="21.4">Open</tspan>
+            </text><path fill="#FFF" d="M29.07,11.035 L29.07,21.178 L20.277,26.253 L20.277,24.179 L27.302,20.158 L27.302,13.97 L21.901,17.044 L21.901,19.115 L25.502,17.066 L25.502,19.114 L20.277,22.106 L20.277,16.11 L29.07,11.035 Z M11.2,11.033 L12.974,12.057 L12.974,20.158 L19.977,24.17 L19.977,26.243 L11.2,21.177 L11.2,11.033 Z M14.774,13.096 L19.977,16.1 L19.977,22.095 L14.774,19.115 L14.774,13.096 Z M20.136,9.833 L25.348,12.837 L20.135,15.845 L14.927,12.838 L20.136,9.833 Z M20.135,5.7 L28.921,10.774 L27.149,11.797 L20.135,7.755 L13.127,11.799 L11.349,10.773 L20.135,5.7 Z" mask="url(#b)"/></g></svg>

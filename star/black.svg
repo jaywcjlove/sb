@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="12px" height="11px" viewBox="0 0 12 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <title>black</title>
-    <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="star" sketch:type="MSLayerGroup" transform="translate(-14.000000, -110.000000)" fill="#4A4A4A">
-            <polygon id="black" sketch:type="MSShapeGroup" points="20 119.120976 16.2917961 121 17 117.020163 14 114.201626 18.145898 113.620976 20 110 21.854102 113.620976 26 114.201626 23 117.020163 23.7082039 121 "></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="11" viewBox="0 0 12 11"><polygon fill="#4A4A4A" fill-rule="evenodd" points="20 119.121 16.292 121 17 117.02 14 114.202 18.146 113.621 20 110 21.854 113.621 26 114.202 23 117.02 23.708 121" transform="translate(-14 -110)"/></svg>

@@ -1,25 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="20" viewBox="0 0 72 20">
-  <defs>
-    <rect id="gitter-a" width="72" height="20" x="0" y="0" rx="3"/>
-    <rect id="gitter-c" width="22" height="20" x="0" y="0"/>
-    <filter id="gitter-d" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
-      <feOffset in="SourceAlpha" result="shadowOffsetInner1"/>
-      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
-      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="gitter-b" fill="#fff">
-      <use xlink:href="#gitter-a"/>
-    </mask>
-    <use fill="#06CCA0" xlink:href="#gitter-a"/>
-    <g mask="url(#gitter-b)">
-      <use fill="#00B58C" xlink:href="#gitter-c"/>
-      <use fill="#000" filter="url(#gitter-d)" xlink:href="#gitter-c"/>
-    </g>
-    <text fill="#FFF" font-family="AvenirNext-DemiBold, Avenir Next" font-size="12" font-weight="500" mask="url(#gitter-b)">
-      <tspan x="26.42" y="14">GITTER</tspan>
-    </text>
-    <path fill="#FFF" d="M6,4 L7,4 L7,12 L6,12 L6,4 Z M9,6.07397461 L10,6.07397461 L10,15.0039749 L9,15.0039749 L9,6.07397461 Z M12,6.07397461 L13,6.07397461 L13,15.0039749 L12,15.0039749 L12,6.07397461 Z M15,6 L16,6 L16,12 L15,12 L15,6 Z" mask="url(#gitter-b)"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="20" viewBox="0 0 72 20"><defs><rect id="a" width="72" height="20" x="0" y="0" rx="3"/><rect id="c" width="22" height="20" x="0" y="0"/><filter id="d" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox"><feOffset in="SourceAlpha" result="shadowOffsetInner1"/><feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/><feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/></filter></defs><g fill="none" fill-rule="evenodd"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><use xlink:href="#a" fill="#06CCA0"/><g mask="url(#b)"><use xlink:href="#c" fill="#00B58C"/><use xlink:href="#c" fill="#000" filter="url(#d)"/></g><text fill="#FFF" font-family="AvenirNext-DemiBold, Avenir Next" font-size="12" font-weight="500" mask="url(#b)">
+                <tspan x="26.42" y="14">GITTER</tspan>
+            </text><path fill="#FFF" d="M6,4 L7,4 L7,12 L6,12 Z M9,6.07397461 L10,6.07397461 L10,15.0039749 L9,15.0039749 Z M12,6.07397461 L13,6.07397461 L13,15.0039749 L12,15.0039749 Z M15,6 L16,6 L16,12 L15,12 Z" mask="url(#b)"/></g></svg>

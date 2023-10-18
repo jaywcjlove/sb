@@ -1,19 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="20" viewBox="0 0 55 20">
-  <defs>
-    <rect id="xitu-a" width="55" height="20" x="0" y="0" rx="3"/>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="xitu-b" fill="#fff">
-      <use xlink:href="#xitu-a"/>
-    </mask>
-    <polygon fill="#555" fill-rule="nonzero" points="0 0 25 0 25 20 0 20" mask="url(#xitu-b)"/>
-    <polygon fill="#006CFF" fill-rule="nonzero" points="25 0 55 0 55 20 25 20" mask="url(#xitu-b)"/>
-    <text fill="#010101" fill-opacity=".3" font-family="Verdana" font-size="12" mask="url(#xitu-b)">
-      <tspan x="29" y="15">xitu</tspan>
-    </text>
-    <text fill="#FFF" font-family="Verdana" font-size="12" mask="url(#xitu-b)">
-      <tspan x="29" y="14">xitu</tspan>
-    </text>
-    <path fill="#FFF" fill-rule="nonzero" d="M13.9232492,4.39331229 L12.5016811,3.27242525 L11.0164618,4.44351495 L10.9394385,4.50556146 L12.5016811,5.75122924 L14.0687375,4.50556146 L13.9232492,4.39331229 Z M19.3102924,8.74031229 L12.4975548,14.1122259 L5.68894352,8.74359801 L4.68328571,9.55134884 L12.4975548,15.7129037 L20.316103,9.54806312 L19.3102924,8.74031229 Z M12.4975548,9.1760897 L8.79027575,6.25295017 L7.78446512,7.060701 L12.4975548,10.7769203 L17.2146179,7.05741528 L16.2088837,6.24966445 L12.4975548,9.1760897 Z" mask="url(#xitu-b)"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="20" viewBox="0 0 55 20"><defs><rect id="a" width="55" height="20" x="0" y="0" rx="3"/></defs><g fill="none" fill-rule="evenodd"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><polygon fill="#555" fill-rule="nonzero" points="0 0 25 0 25 20 0 20" mask="url(#b)"/><polygon fill="#006CFF" fill-rule="nonzero" points="25 0 55 0 55 20 25 20" mask="url(#b)"/><text fill="#010101" fill-opacity=".3" font-family="Verdana" font-size="12" mask="url(#b)">
+                    <tspan x="29" y="15">xitu</tspan>
+                </text><text fill="#FFF" font-family="Verdana" font-size="12" mask="url(#b)">
+                    <tspan x="29" y="14">xitu</tspan>
+                </text><path fill="#FFF" fill-rule="nonzero" d="M13.9232492,4.39331229 L12.5016811,3.27242525 L11.0164618,4.44351495 L10.9394385,4.50556146 L12.5016811,5.75122924 L14.0687375,4.50556146 L13.9232492,4.39331229 Z M19.3102924,8.74031229 L12.4975548,14.1122259 L5.68894352,8.74359801 L4.68328571,9.55134884 L12.4975548,15.7129037 L20.316103,9.54806312 L19.3102924,8.74031229 Z M12.4975548,9.1760897 L8.79027575,6.25295017 L7.78446512,7.060701 L12.4975548,10.7769203 L17.2146179,7.05741528 L16.2088837,6.24966445 L12.4975548,9.1760897 Z" mask="url(#b)"/></g></svg>

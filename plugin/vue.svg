@@ -1,51 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="20" viewBox="0 0 88 20">
-  <defs>
-    <linearGradient id="vue-b" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#5E5E5E"/>
-      <stop offset="100%" stop-color="#4D4D4D"/>
-    </linearGradient>
-    <rect id="vue-a" width="88" height="20" rx="3"/>
-    <linearGradient id="vue-d" x1="50%" x2="50%" y1="0%" y2="100%">
-      <stop offset="0%" stop-color="#55B554"/>
-      <stop offset="100%" stop-color="#50A74F"/>
-    </linearGradient>
-    <rect id="vue-e" width="100" height="20" x="44"/>
-    <filter id="vue-f" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox">
-      <feOffset in="SourceAlpha" result="shadowOffsetInner1"/>
-      <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
-      <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0"/>
-    </filter>
-    <text id="vue-h" fill="#FFF" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400">
-      <tspan x="4.5" y="14">Plugin</tspan>
-    </text>
-    <filter id="vue-g" width="102.9%" height="118.8%" x="-1.4%" y="-3.1%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.347417092   0 0 0 0 0.347417092   0 0 0 0 0.347417092  0 0 0 0.498161765 0"/>
-    </filter>
-    <text id="vue-j" fill="#FFF" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400">
-      <tspan x="49" y="14">Vue.js</tspan>
-    </text>
-    <filter id="vue-i" width="102.9%" height="118.8%" x="-1.5%" y="-3.1%" filterUnits="objectBoundingBox">
-      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
-      <feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.347417092   0 0 0 0 0.347417092   0 0 0 0 0.347417092  0 0 0 0.498161765 0"/>
-    </filter>
-  </defs>
-  <g fill="none" fill-rule="evenodd">
-    <mask id="vue-c" fill="#fff">
-      <use xlink:href="#vue-a"/>
-    </mask>
-    <use fill="url(#vue-b)" xlink:href="#vue-a"/>
-    <g mask="url(#vue-c)">
-      <use fill="url(#vue-d)" xlink:href="#vue-e"/>
-      <use fill="#000" filter="url(#vue-f)" xlink:href="#vue-e"/>
-    </g>
-    <g fill="#FFF" mask="url(#vue-c)">
-      <use filter="url(#vue-g)" xlink:href="#vue-h"/>
-      <use xlink:href="#vue-h"/>
-    </g>
-    <g fill="#FFF" mask="url(#vue-c)">
-      <use filter="url(#vue-i)" xlink:href="#vue-j"/>
-      <use xlink:href="#vue-j"/>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="20" viewBox="0 0 88 20"><defs><filter id="f" width="100%" height="100%" x="0%" y="0%" filterUnits="objectBoundingBox"><feOffset in="SourceAlpha" result="shadowOffsetInner1"/><feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/><feColorMatrix in="shadowInnerInner1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/></filter><filter id="h" width="102.9%" height="118.8%" x="-1.4%" y="-3.1%" filterUnits="objectBoundingBox"><feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/><feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.347417092 0 0 0 0 0.347417092 0 0 0 0 0.347417092 0 0 0 0.498161765 0"/></filter><filter id="j" width="102.9%" height="118.8%" x="-1.5%" y="-3.1%" filterUnits="objectBoundingBox"><feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/><feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.347417092 0 0 0 0 0.347417092 0 0 0 0 0.347417092 0 0 0 0.498161765 0"/></filter><linearGradient id="b" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#5E5E5E"/><stop offset="100%" stop-color="#4D4D4D"/></linearGradient><linearGradient id="e" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#55B554"/><stop offset="100%" stop-color="#50A74F"/></linearGradient><text id="g" fill="#FFF" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400">
+            <tspan x="4.5" y="14">Plugin</tspan>
+        </text><text id="i" fill="#FFF" font-family="AvenirNext-Medium, Avenir Next" font-size="12" font-weight="400">
+            <tspan x="49" y="14">Vue.js</tspan>
+        </text><rect id="a" width="88" height="20" x="0" y="0" rx="3"/><rect id="d" width="100" height="20" x="44" y="0"/></defs><g fill="none" fill-rule="evenodd"><mask id="c" fill="#fff"><use xlink:href="#a"/></mask><use xlink:href="#a" fill="url(#b)"/><g mask="url(#c)"><use xlink:href="#d" fill="url(#e)"/><use xlink:href="#d" fill="#000" filter="url(#f)"/></g><g fill="#FFF" mask="url(#c)"><use xlink:href="#g" filter="url(#h)"/><use xlink:href="#g"/></g><g fill="#FFF" mask="url(#c)"><use xlink:href="#i" filter="url(#j)"/><use xlink:href="#i"/></g></g></svg>
