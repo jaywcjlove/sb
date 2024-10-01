@@ -27,7 +27,33 @@ function initData(dirname) {
       _filepath = path.join(dirname, _filename)
       if (_filename !== '.git' && _filename !== '.github' && _filename !== 'www' && _filename !== 'svg' && _filename !== '.DS_Store') {
         if (isDir(_filepath)) {
-          data[_filename] = await initData(_filepath);
+          data[_filename] = (await initData(_filepath)).sort((a, b) => {
+            const regex = /(\d+)|(\D+)/g;
+            
+            const aParts = a.match(regex);
+            const bParts = b.match(regex);
+            
+            for (let i = 0; i < Math.min(aParts.length, bParts.length); i++) {
+                const aPart = aParts[i];
+                const bPart = bParts[i];
+                
+                // Compare numbers as numbers
+                if (!isNaN(aPart) && !isNaN(bPart)) {
+                    const diff = parseInt(aPart, 10) - parseInt(bPart, 10);
+                    if (diff !== 0) {
+                        return diff;
+                    }
+                }
+                
+                // Compare text parts alphabetically
+                if (aPart !== bPart) {
+                    return aPart.localeCompare(bPart);
+                }
+            }
+            
+            // If one is a prefix of the other, the shorter one should come first
+            return aParts.length - bParts.length;
+          });
         } else if (isFile(_filepath)) {
           filesArr.push(_filepath.replace(path_root, '').replace('/', ''))
         }
