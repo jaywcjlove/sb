@@ -8,6 +8,7 @@
   ],
   "download": [
     "download/amazon.svg",
+    "download/apple-download.svg",
     "download/appstore.svg",
     "download/chrome-web-store.svg",
     "download/googleplay.svg",
@@ -16,6 +17,7 @@
     "download/made-for-iphone.svg",
     "download/open-source.svg",
     "download/white-amazon.svg",
+    "download/white-apple-download.svg",
     "download/white-appstore.svg",
     "download/white-chrome-web-store.svg",
     "download/white-googleplay.svg",
