@@ -111,7 +111,8 @@
   ],
   "lang": [
     "lang/chinese.svg",
-    "lang/english.svg"
+    "lang/english.svg",
+    "lang/kr.svg"
   ],
   "license": [
     "license/apache.svg",
