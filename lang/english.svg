@@ -1,3 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71" height="20" viewBox="0 0 71 20"><defs><rect id="d" width="22" height="20" x="0" y="0"/><rect id="f" width="39" height="20" x="0" y="0" rx="5"/><filter id="c" width="102%" height="112.5%" x="-1%" y="-3.1%" filterUnits="objectBoundingBox"><feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/><feColorMatrix in="shadowOffsetOuter1" values="0 0 0 0 0.347417092 0 0 0 0 0.347417092 0 0 0 0 0.347417092 0 0 0 0.498161765 0"/></filter><text id="b" fill="#FFF" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="20px" viewBox="0 0 71 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>english</title>
+    <defs>
+        <path d="M3,0 L68,0 C69.6568542,-4.4408921e-16 71,1.34314575 71,3 L71,17 C71,18.6568542 69.6568542,20 68,20 L3,20 C1.34314575,20 0,18.6568542 0,17 L0,3 C0,1.34314575 1.34314575,0 3,0 Z" id="path-1"></path>
+        <text id="text-2" font-family="AvenirNext-Regular, Avenir Next" font-size="12" font-weight="normal" fill="#FFFFFF">
             <tspan x="26" y="14">English</tspan>
-        </text><path id="a" d="M3,0 L68,0 C69.6568542,-4.4408921e-16 71,1.34314575 71,3 L71,17 C71,18.6568542 69.6568542,20 68,20 L3,20 C1.34314575,20 0,18.6568542 0,17 L0,3 C0,1.34314575 1.34314575,0 3,0 Z"/></defs><g fill="none"><use xlink:href="#a" fill="#1156A7" fill-rule="evenodd"/><g fill="#FFF"><use xlink:href="#b" filter="url(#c)"/><use xlink:href="#b"/></g><g fill-rule="evenodd"><mask id="e" fill="#fff"><use xlink:href="#d"/></mask><use xlink:href="#d" fill="#CB0000"/><g mask="url(#e)"><g transform="translate(-6)"><mask id="g" fill="#fff"><use xlink:href="#f"/></mask><use xlink:href="#f" fill="#2F80B7"/><path fill="#BE3B31" fill-rule="nonzero" stroke="#EDF1F2" d="M35.4249464,0 L36.5363634,2.24489856 L35.4207855,2.80402995 L21.074,9.994 L35.4432902,17.19597 L36.5588681,17.7551014 L35.447451,20 L34.3318731,19.4408686 L18.279,11.395 L2.22699502,19.4408686 L1.11141708,20 L0,17.7551014 L1.11557794,17.19597 L15.484,9.994 L1.13808261,2.80402995 L0.0225046688,2.24489856 L1.13392175,0 L2.24949969,0.559131392 L18.279,8.593 L34.3093684,0.559131392 L35.4249464,0 Z" mask="url(#g)"/><path fill="#BE3B31" stroke="#EDF1F2" d="M18.6268499,4.66683861e-05 L18.6260467,8.6060003 L34.2353349,8.60600971 L34.7353346,8.60601001 L34.7353346,11.60601 L34.2353343,11.6060097 L18.6260478,11.6060003 L18.6268499,19.9999522 L18.6268977,20.5 L15.6268977,20.5 L15.6268499,20.0000478 L15.6260478,11.6060003 L1.00000032,11.6060097 L0.5,11.60601 L0.5,8.60601003 L0.999999679,8.60600971 L15.6260467,8.60600033 L15.6268499,-4.66683861e-05 L15.6268966,-0.5 L18.6268966,-0.5 Z" mask="url(#g)"/></g></g></g></g></svg>
+        </text>
+        <filter x="-1.0%" y="-3.1%" width="102.0%" height="112.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.347417092   0 0 0 0 0.347417092   0 0 0 0 0.347417092  0 0 0 0.498161765 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-4" x="0" y="0" width="22" height="20"></rect>
+        <path d="M5,0 L34,0 C36.7614237,-8.8817842e-16 39,2.23857625 39,5 L39,15 C39,17.7614237 36.7614237,20 34,20 L5,20 C2.23857625,20 0,17.7614237 0,15 L0,5 C0,2.23857625 2.23857625,0 5,0 Z" id="path-6"></path>
+    </defs>
+    <g id="english" stroke="none" fill="none" xlink:href="#path-1">
+        <use fill="#1156A7" fill-rule="evenodd" xlink:href="#path-1"></use>
+        <g id="English" fill="#FFFFFF" fill-opacity="1">
+            <use filter="url(#filter-3)" xlink:href="#text-2"></use>
+            <use xlink:href="#text-2"></use>
+        </g>
+        <mask id="mask-5" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <use id="Mask" fill="#CB0000" fill-rule="evenodd" xlink:href="#path-4"></use>
+        <g id="UK" mask="url(#mask-5)" xlink:href="#path-6">
+            <g transform="translate(-6, 0)">
+                <use stroke="none" fill="#2F80B7" fill-rule="evenodd" xlink:href="#path-6"></use>
+                <path d="M35.4249464,0 L36.5363634,2.24489856 L35.4207855,2.80402995 L21.074,9.994 L35.4432902,17.19597 L36.5588681,17.7551014 L35.447451,20 L34.3318731,19.4408686 L18.279,11.395 L2.22699502,19.4408686 L1.11141708,20 L0,17.7551014 L1.11557794,17.19597 L15.484,9.994 L1.13808261,2.80402995 L0.0225046688,2.24489856 L1.13392175,0 L2.24949969,0.559131392 L18.279,8.593 L34.3093684,0.559131392 L35.4249464,0 Z" id="Line" stroke="#EDF1F2" stroke-width="1" fill="#BE3B31" fill-rule="nonzero"></path>
+                <path d="M18.6268499,4.66683861e-05 L18.6260467,8.6060003 L34.2353349,8.60600971 L34.7353346,8.60601001 L34.7353346,11.60601 L34.2353343,11.6060097 L18.6260478,11.6060003 L18.6268499,19.9999522 L18.6268977,20.5 L15.6268977,20.5 L15.6268499,20.0000478 L15.6260478,11.6060003 L1.00000032,11.6060097 L0.5,11.60601 L0.5,8.60601003 L0.999999679,8.60600971 L15.6260467,8.60600033 L15.6268499,-4.66683861e-05 L15.6268966,-0.5 L18.6268966,-0.5 Z" id="Rectangle-34" stroke="#EDF1F2" stroke-width="1" fill="#BE3B31" fill-rule="evenodd"></path>
+            </g>
+        </g>
+    </g>
+</svg>
