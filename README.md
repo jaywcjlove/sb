@@ -43,7 +43,7 @@ SVG Badges
 ![Image-Name](https://jaywcjlove.github.io/sb/<Image-Name>.svg)
 
 ![appstore.svg](https://jaywcjlove.github.io/sb/download/appstore.svg)
-![appstore.svg](https://wangchujiang.com//sb/download/appstore.svg)
+![appstore.svg](https://wangchujiang.com/sb/download/appstore.svg)
 ```
 
 [View All](http://jaywcjlove.github.io/sb/)
