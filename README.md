@@ -68,7 +68,7 @@ SVG Badges
 
 ## lang
 
-[![lang/chinese.svg](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://jaywcjlove.github.io/sb/lang/chinese.svg) [![lang/english.svg](https://jaywcjlove.github.io/sb/lang/english.svg)](https://jaywcjlove.github.io/sb/lang/english.svg) [![lang/korean.svg](https://jaywcjlove.github.io/sb/lang/korean.svg)](https://jaywcjlove.github.io/sb/lang/korean.svg) 
+[![lang/chinese.svg](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://jaywcjlove.github.io/sb/lang/chinese.svg) [![lang/english.svg](https://jaywcjlove.github.io/sb/lang/english.svg)](https://jaywcjlove.github.io/sb/lang/english.svg) [![lang/japan.svg](https://jaywcjlove.github.io/sb/lang/japan.svg)](https://jaywcjlove.github.io/sb/lang/japan.svg) [![lang/korean.svg](https://jaywcjlove.github.io/sb/lang/korean.svg)](https://jaywcjlove.github.io/sb/lang/korean.svg) 
 
 ## license
 
